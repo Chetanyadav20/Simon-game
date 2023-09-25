@@ -1,3 +1,3 @@
 # Simon-game
 
-visit = 
+visit = https://chetanyadav20.github.io/Simon-game/
